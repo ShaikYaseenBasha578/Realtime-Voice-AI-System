@@ -94,4 +94,4 @@ In-Game Action (ammo / weapon switch)
 
 ## Project Status
 
-Active — built as a proof-of-concept for real-time voice-controlled gameplay.
+No longer actively maintained — built as a proof-of-concept for real-time voice-controlled gameplay.
